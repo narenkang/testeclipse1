@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+
+.navbar .nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  padding-left: 1em !important;
+  padding-right: 1em !important; }
+
+.navbar .nav-item.active {
+  border-left: #444 3px solid; }
+
+.carousel-item {
+  height: 230px; 
+  }
+
+.carousel-image-1 {
+  background-color: grey !important;
+  background-size: cover; }
+
+.carousel-image-2 {
+background-color: grey !important;
+  background-size: cover; }
+
+.carousel-image-3 {
+  background-color: grey !important;
+  background-size: cover; }
+  
+
